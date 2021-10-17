@@ -10,3 +10,7 @@ There is a lot of features including applying for the Events.<br/>
 Latest Youtube updates are available in the website.<br/>
 ## Social Media Links
 *Facebook*,*Instagram* & *twitter* pages of the celebrity is also listed.
+# Direct Web Access
+Link for Direct access: https://muthu-codinghack.netlify.app/ <br/>
+Kindly open in a New Tab.<br/>
+thank you!
